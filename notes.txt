@@ -1,0 +1,15 @@
+Percentage: A Percentage value is always relative to some other 
+element. For example, if you set the width of some element, it
+will be half the parent element.
+
+width: 50%; //half that of the parent.
+
+
+For some properties, they relative, not the parent itself, but 
+to the font size of the element itself, or some other value of the 
+property itself. How the other units work is really based on the 
+property in question.
+
+
+EMs are relative units to some other values, as are REMs.
+

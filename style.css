@@ -1,0 +1,12 @@
+section{
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+}
+
+div{
+    background-color: rgb(231, 126, 144);
+    width:50%;
+    height: 50%;
+    
+}
